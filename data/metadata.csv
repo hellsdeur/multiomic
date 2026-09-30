@@ -1,0 +1,13 @@
+sample_id,group,phenotype,sex,batch,age_years,notes
+S01,Control,0,F,B1,34,baseline phenotype
+S02,Control,0,M,B1,41,baseline phenotype
+S03,Control,0,F,B1,29,baseline phenotype
+S04,Control,0,M,B2,50,baseline phenotype
+S05,Control,0,F,B2,38,baseline phenotype
+S06,Control,0,M,B2,45,baseline phenotype
+S07,Deficient,1,F,B1,36,reduced product of three-gene protein complex
+S08,Deficient,1,M,B1,43,reduced product of three-gene protein complex
+S09,Deficient,1,F,B1,31,reduced product of three-gene protein complex
+S10,Deficient,1,M,B2,48,reduced product of three-gene protein complex
+S11,Deficient,1,F,B2,40,reduced product of three-gene protein complex
+S12,Deficient,1,M,B2,46,reduced product of three-gene protein complex
